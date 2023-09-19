@@ -1,2 +1,2 @@
-# java-internship
+# CodSoft
 Java Internship
